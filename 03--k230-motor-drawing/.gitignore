@@ -1,0 +1,4 @@
+*.autosave
+**/Objects/
+**/Listings/
+**/DebugConfig/
